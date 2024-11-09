@@ -1,5 +1,5 @@
 ##👋 Hi there, I'm David Nong-Ang.
-- 🌱 I'm a computer science co-op student at Concordia University looking to expand my knowledge on Machine learning and AI. 
+- 🌱 I'm a computer science CO-OP student at Concordia University looking to expand my knowledge on full stack web development, Machine learning and AI. 
 - 🔭 My portfolio website: 
 - 📫 How to reach me: nong.david5@gmail.com
 <!--
