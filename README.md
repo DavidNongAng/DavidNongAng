@@ -1,18 +1,19 @@
-##👋 Hi there, I'm David Nong-Ang.
-- 🌱 I'm a computer science CO-OP student at Concordia University looking to expand my knowledge on full stack web development, Machine learning and AI. 
-- 🔭 My portfolio website: 
-- 📫 How to reach me: nong.david5@gmail.com
-<!--
-**DavidNongAng/DavidNongAng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome to my GitHub!
 
-Here are some ideas to get you started:
+Hi, I’m **David Nong-Ang**, a Computer Science CO-OP student at **Concordia University** passionate about building impactful technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 💻 Currently diving deeper into **Full Stack Web Development**, **Machine Learning**, and **AI**
+- 🛠️ Constantly learning through hands-on projects, system design, and experimentation
+- 🌐 Visit my portfolio: [main.djefm89l658qz.amplifyapp.com](https://main.djefm89l658qz.amplifyapp.com/)
+- 📫 Reach me at: **nong.david5@gmail.com**
+
+### 🔧 Tech Interests
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, MongoDB, REST APIs  
+- **Cloud & DevOps:** AWS (Amplify, Lambda, API Gateway), Git/GitHub, CI/CD workflows  
+- **Other:** Python, TensorFlow, OpenAI APIs
+
+Thanks for stopping by!
