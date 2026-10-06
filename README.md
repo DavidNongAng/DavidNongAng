@@ -7,7 +7,7 @@ Hi, I’m **David Nong-Ang**, a Computer Science CO-OP student at **Concordia Un
 ### 🚀 About Me
 - 💻 Currently diving deeper into **Full Stack Web Development**, **Machine Learning**, and **AI**
 - 🛠️ Constantly learning through hands-on projects, system design, and experimentation
-- 🌐 Visit my portfolio: [main.djefm89l658qz.amplifyapp.com](https://main.djefm89l658qz.amplifyapp.com/)
+- 🌐 Visit my portfolio: [https://davidnongang.github.io/portfolio/](https://davidnongang.github.io/portfolio/)
 - 📫 Reach me at: **nong.david5@gmail.com**
 
 ### 🔧 Tech Interests
